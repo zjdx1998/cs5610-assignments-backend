@@ -23,6 +23,7 @@
   "homepage": "https://github.com/zjdx1998/cs5610-assignments-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
   }
 }
